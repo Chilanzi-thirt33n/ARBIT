@@ -85,7 +85,7 @@ a {
     nav {
         background-color: rgba(1, 3, 14, 0.953);
         width: 100vw;
-        height: 80px;
+        height: 70px;
         outline: 1px solid;
         position: fixed;
         top: 0;
@@ -115,7 +115,7 @@ a {
         padding: .6em;
         border: .1px solid azure;
         border-radius: 10px;
-        background-color: orangered;
+        background-color: rgba(255, 68, 0, 0.446);
         -webkit-border-radius: ;
         -moz-border-radius: ;
         -ms-border-radius: ;
@@ -123,7 +123,7 @@ a {
     }
     .home a:visited {
         color: azure;
-        padding: .6em;
+        padding: .5em;
         border: .1px solid azure;
         border-radius: 10px;
         -webkit-border-radius: 10px;
@@ -134,7 +134,7 @@ a {
     .home a:hover {
         color: orangered;
         border: .1px solid orangered;
-        padding: .6em;
+        padding: .5em;
         border-radius: 20px;
         -webkit-border-radius: 20px;
         -moz-border-radius: 20px;
@@ -145,7 +145,7 @@ a {
     .home a:focus {
         color: orangered;
         border: .1px solid orangered;
-        padding: .6em;
+        padding: .5em;
         border-radius: 20px;
         -webkit-border-radius: 20px;
         -moz-border-radius: 20px;
@@ -167,7 +167,7 @@ a {
     .bar-left a:hover {
         color: orangered;
         border: .1px solid orangered;
-        padding: .7em;
+        padding: .5em;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -177,7 +177,7 @@ a {
     .bar-left a:focus {
         color: orangered;
         border: .1px solid orangered;
-        padding: .7em;
+        padding: .5em;
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
